@@ -51,5 +51,5 @@ Reduction in E Use Allowed by Component Eff Std[appliances,commercial] = 0.38
 Reduction in E Use Allowed by Component Eff Std[other component,urban residential] = 0.155
 Reduction in E Use Allowed by Component Eff Std[other component,rural residential] = 0.155
 Reduction in E Use Allowed by Component Eff Std[other component,commercial] = 0.3
-Renewable Portfolio Std Percentage = 0.6405
+Renewable Portfolio Std Percentage = 0.9
 Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.39
